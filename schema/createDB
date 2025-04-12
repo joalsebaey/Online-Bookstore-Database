@@ -1,0 +1,6 @@
+-- Create the database
+CREATE DATABASE BookstoreDB;
+GO
+
+USE BookstoreDB;
+GO
